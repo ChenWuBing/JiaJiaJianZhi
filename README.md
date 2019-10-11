@@ -1,5 +1,5 @@
-# 味央便利小店
+# 快乐温泉
 
-We are a platform for the purchase of recipes for “早餐”、“午餐”、“晚餐”, which are specially designed for users. Each recipe on our platform is specially matched according to the daily needs of the human body. Can help users improve the nutritional balance of each meal.
+We are an app that offers online booking of various hot spring venue tickets. Users can book hot spring tickets for their favorite environment to participate in the spa party. We guarantee good service and quality.
 
-If you have any questions, please contact the technical support email address daodien19681v@gmail.com, thank you for your support.
+If you have any questions, please contact technical support email: na733fengdan@163.com, thank you for your support.
