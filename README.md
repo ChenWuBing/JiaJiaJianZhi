@@ -1,5 +1,8 @@
-# 快乐温泉
+# 蜜糖圈恋爱交友
 
-We are an app that offers online booking of various hot spring venue tickets. Users can book hot spring tickets for their favorite environment to participate in the spa party. We guarantee good service and quality.
+真实高效高端的交友平台，多种约会类型自由选择，消息分类明确，方便查找，点赞分享找到感兴趣的话题。
+1，人工审核认证，精准把握用户质量。
+2，提供精准的好友推荐。
+3，快速发起聊天，与心仪的TA聊天。
 
-If you have any questions, please contact technical support email: venffomibwan@yahoo.com, thank you for your support.
+如果您有任何疑问，请联系技术支持电子邮件：wang1138966371@163.com，谢谢您的支持。
