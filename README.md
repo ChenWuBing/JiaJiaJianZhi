@@ -1,5 +1,5 @@
-# 智包兼职
+# Pentium Equestrian Sports
 
-我们是一个兼职信息平台，用户可以在我们平台找寻到他们喜欢的、更加适合他们的兼职信息并报名参加兼职。我们平台保证兼职信息的可靠性、准确性、实时性、安全性。用户可以放心参与其中，享受兼职带来的乐趣。
+We are a platform that specializes in providing riding technical training courses. Users can find their favorite and more suitable riding training courses on our platform. Our trainers are all professional and technical, and can provide one-to-one special technical guidance. We look forward to your joining.
 
-如果您有任何疑问，请联系技术支持电子邮件：qujtu085yazg@sina.cn，谢谢您的支持。
+If you have any questions, please contact the technical support email: SchierschKdyncenH@aol.com, thank you for your support.
